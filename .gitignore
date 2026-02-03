@@ -1,0 +1,49 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.#*
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Personal/Private Notes
+private/
+personal/
+drafts/
+.private/
+
+# Build Artifacts
+*.log
+*.out
+node_modules/
+dist/
+build/
+
+# Sensitive Information
+*.key
+*.pem
+*.crt
+secrets.md
+passwords.txt
+credentials.md
+
+# Backup Files
+*.bak
+*.backup

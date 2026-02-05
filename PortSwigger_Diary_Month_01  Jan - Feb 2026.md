@@ -1,7 +1,3 @@
-Here is a structured, markdown-ready diary entry for your GitHub repository. It condenses the raw notes into a clean, technical summary focusing on the core payloads, commands, and methodologies you learned during your first month.
-
-You can copy and paste the code below directly into a README.md or a file named Month_01_PortSwigger_Diary.md.
-
 🛡️ Month 1: PortSwigger Web Security Academy Diary
 
 Focus: Core Server-Side Vulnerabilities (SQLi, File Uploads, Access Control, Logic Flaws) & Web LLM.
